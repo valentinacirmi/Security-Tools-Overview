@@ -12,6 +12,8 @@ Impacket is a collection of Python-based scripts that allow interaction with net
 **Personal opinion:**  
 It is a very powerful tool for interacting with networks and performing security assessments. Although Python knowledge is not strictly required to use it, understanding the language helps to better interpret its behavior. It is a great tool for beginners who want to explore network-level interactions in cybersecurity.
 
+![Impacket](screenshots/impacket.png)
+
 ---
 
 ## Aircrack-ng
@@ -22,6 +24,8 @@ Aircrack-ng is a suite of tools designed to assess Wi-Fi network security. It su
 **Personal opinion:**  
 This tool suite covers several key areas in wireless penetration testing. One of its strengths is the extensive documentation and tutorials available online, making it accessible for beginners. It is also widely used in wireless security audits.
 
+![Aircrack-ng](screenshots/aircrack-ng.png)
+
 ---
 
 ## Kismet
@@ -31,3 +35,6 @@ Kismet is a passive wireless network monitoring tool. It detects active networks
 
 **Personal opinion:**  
 It is a very useful tool for security auditing due to its passive nature, allowing network observation without interference. This makes it especially valuable for stealthy analysis and monitoring environments.
+
+![Kismet](screenshots/kismet.png)
+
